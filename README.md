@@ -15,6 +15,6 @@ Use `npm start` on your terminal to start the server on **http://localhost:8000*
 
 
 ## Start client
-`cd client` to switch to the client folder
+`cd client` to switch the terminal to the client folder
 
 Use  `npm start` to load the frontend on **http://localhost:3000**
