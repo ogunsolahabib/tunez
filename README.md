@@ -18,3 +18,8 @@ Use `npm start` on your terminal to start the server on **http://localhost:8000*
 `cd client` to switch the terminal to the client folder
 
 Use  `npm start` to load the frontend on **http://localhost:3000**
+
+## Run tests
+In the client folder,
+
+Use `npm run test` to run the test scripts
