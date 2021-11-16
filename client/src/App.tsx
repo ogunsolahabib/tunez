@@ -5,8 +5,6 @@ import configureStore from "redux/configureStore";
 import { defaultState } from "redux/reducers";
 import { Box, CssBaseline } from "@mui/material";
 
-import styled from "styled-components";
-
 import "./App.css";
 
 // mui components
