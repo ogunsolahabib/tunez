@@ -23,3 +23,23 @@ Use  `npm start` to load the frontend on **http://localhost:3000**
 In the client folder,
 
 Use `npm run test` to run the test scripts
+
+
+
+
+
+
+
+
+
+
+
+### To-Do List
+Show info about a selected song in a new modal
+
+Write more unit tests
+
+Improve UX on search
+
+Show avatars for artistes
+
